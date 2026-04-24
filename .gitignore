@@ -1,0 +1,11 @@
+rehydrated
+.blockstore/
+.venv/
+*.img
+*.img.gz
+*.gz
+__pycache__/
+*.egg-info/
+.pytest_cache/
+
+.claude/
