@@ -2,6 +2,8 @@
 
 Deduplicated disk image transfer over SSH. Transfers only unique blocks across machines and over time, stores them compressed in a content-addressable block store.
 
+![diskdump overview](assets/infographic.png)
+
 ## How it works
 
 1. Client script is deployed to remote machine via SCP
